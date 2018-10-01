@@ -62,7 +62,7 @@ ul{
      text-decoration: none;
      color: #fff;
  }
- .nav a :hover{
+ .nav a:hover{
      text-decoration: underline;
      text-decoration-color: #fff;
  }
@@ -87,7 +87,6 @@ ul{
     padding-left: 1%;
     padding-right: 1%;
     padding-top: 1%;
-    padding-bottom: 1%;
     margin: 0;
 }
 .grid_container div{
@@ -132,7 +131,7 @@ ul{
 
 }
 h3{
-    font-size: 1.5em;
+    font-size: 2em;
     vertical-align: baseline;
     color: #612e1d;
     font-weight: normal;
@@ -156,14 +155,13 @@ h3{
     margin-left: 5%;
     margin-right: 5%;
 }
-.grid_container .button-fit :hover{
+.button-fit:hover{
     background-color: white;
     color: orange;
 }
 .grid_container p{
     font-family: 'Raleway', sans-serif;
-    font-size: 1em;
-    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
     margin-left: 1.5em;
 }
     
