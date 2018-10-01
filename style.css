@@ -84,7 +84,6 @@ ul{
 }
 .grid_container div{
     border-radius:4px;
-    text-align: center;
 }
 
 .grid_container .img1{
@@ -127,141 +126,27 @@ ul{
 h3{
     font-size: 1.5em;
     vertical-align: baseline;
-    color: #fff;
+    color: #612e1d;
     font-weight: normal;
-    font-family: "Source Sans Pro";
-    text-align: center;
+    font-family: 'Raleway', sans-serif;
+
     margin: 1em;
 }
-.p1{
-    font-size: 1.2em;
-    vertical-align: baseline;
-    color: rgb(112, 199, 190);
-    font-weight: 300;
-    font-family: "Source Sans Pro";
-    line-height: 1.65;
-    text-align: center;
-    margin: 1.5em;
-}
-.button-fit1{
+
+.grid_container .button-fit{
     text-decoration: none;
     background-color: orange;
     color: white;
     display: inline-block;
-    font-family: "Source Sans Pro";
+    font-family: 'Raleway', sans-serif;
     font-size: 1.2em;
     font-weight: 400;
     width: 80%;
     padding: 4%;
     border-radius: 4px;
-}
-.p2{
-    font-size: 1.2em;
-    vertical-align: baseline;
-    color: rgb(112, 199, 190);
-    font-weight: 300;
-    font-family: "Source Sans Pro";
-    line-height: 1.65;
     text-align: center;
-    margin: 1.5em;
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.button-fit2{
-    text-decoration: none;
-    background-color: orange;
-    color: white;
-    display: inline-block;
-    font-family: "Source Sans Pro";
-    font-size: 1.2em;
-    font-weight: 400;
-    width: 80%;
-    padding: 4%;
-    border-radius: 4px;
-}
-.p3{
-    font-size: 1.2em;
-    vertical-align: baseline;
-    color: rgb(112, 199, 190);
-    font-weight: 300;
-    font-family: "Source Sans Pro";
-    line-height: 1.65;
-    text-align: center;
-    margin: 1.5em;
-}
-.button-fit3{
-    text-decoration: none;
-    background-color: orange;
-    color: white;
-    display: inline-block;
-    font-family: "Source Sans Pro";
-    font-size: 1.2em;
-    font-weight: 400;
-    width: 80%;
-    padding: 4%;
-    border-radius: 4px;
-}
-.p4{
-    font-size: 1.2em;
-    vertical-align: baseline;
-    color: rgb(112, 199, 190);
-    font-weight: 300;
-    font-family: "Source Sans Pro";
-    line-height: 1.65;
-    text-align: center;
-    margin: 1.5em;
-}
-.button-fit4{
-    text-decoration: none;
-    background-color: orange;
-    color: white;
-    display: inline-block;
-    font-family: "Source Sans Pro";
-    font-size: 1.2em;
-    font-weight: 400;
-    width: 80%;
-    padding: 4%;
-    border-radius: 4px;
-}
-.p5{
-    font-size: 1.2em;
-    vertical-align: baseline;
-    color: rgb(112, 199, 190);
-    font-weight: 300;
-    font-family: "Source Sans Pro";
-    line-height: 1.65;
-    text-align: center;
-    margin: 1.5em;
-}
-.button-fit5{
-    text-decoration: none;
-    background-color: orange;
-    color: white;
-    display: inline-block;
-    font-family: "Source Sans Pro";
-    font-size: 1.2em;
-    font-weight: 400;
-    width: 80%;
-    padding: 4%;
-    border-radius: 4px;
-}
-.p6{
-    font-size: 1.2em;
-    vertical-align: baseline;
-    color: rgb(112, 199, 190);
-    font-weight: 300;
-    font-family: "Source Sans Pro";
-    line-height: 1.65;
-    text-align: center;
-    margin: 1.5em;
-}
-.button-fit6{
-    text-decoration: none;
-    background-color: orange;
-    color: white;
-    display: inline-block;
-    font-family: "Source Sans Pro";
-    font-size: 1.2em;
-    font-weight: 400;
-    width: 80%;
-    padding: 4%;
-    border-radius: 4px;
-}
+
+
